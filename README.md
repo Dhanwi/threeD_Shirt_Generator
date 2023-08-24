@@ -1,6 +1,7 @@
 
-# Build and Deploy an AI-Powered 3D Website Using React | 2023 Three JS 
-![3D Website](https://i.ibb.co/Krk39Cf/Thumbnali.png)
+# Build and Deployed an AI-Powered 3D Website Using React | 2023 Three JS 
+<img position="center" height= "400" width="700" alt="3d_shirt" src="https://github.com/Dhanwi/threeD_Shirt_Generator/assets/86427983/ecf054cc-ceeb-4a49-8bef-7641acc35120">
+
 
 ## Introduction
 Many large corporations already use 3D graphics to showcase their products. Learn how to build your own ThreeJS 3D product website and infuse it with the power of artificial intelligence! 
